@@ -4,6 +4,7 @@
 	</head>
 	<body>
 	  <h1>CURRICULUM VITAE CLAUDIA MARTINEZ</h1>
+		<hr>
 	  <h2>PERSONAL DETAILS</h2>	
 
 <p>Residential Address: 	123 Dreamland Street, 45987 Moema BRAZIL<br />
