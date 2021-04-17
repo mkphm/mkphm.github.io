@@ -1,5 +1,3 @@
-# mkphm.github.io
-
 <html>
 	<head>
 		<title>Resume</title>
