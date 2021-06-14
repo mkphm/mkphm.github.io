@@ -12,4 +12,9 @@ if (y==null || y=="") {
   alert("Please enter your email");
   return false;
 }
-}
+var z=document.forms["myForm"]["message"].value;
+if (z==null || z=="")
+ {
+  alert("Please enter a message");
+  return false;
+}}
