@@ -8,6 +8,7 @@ body {
 
 h1 {
     text-align: center;
+    color: darkgreen;
 }
 
 p {
@@ -38,6 +39,21 @@ p {
     color: darkslategrey;
 }
 
+.button {
+    color: #5C5F73;
+    font-size: 14px;
+  text-shadow: 1px 1px 0px #C9C9C9;
+  box-shadow: 1px 1px 1px #D3DEDD;
+  padding: 10px 25px;
+  border-radius: 6px;
+  border: 0px solid #969696;
+  background: #C9C9C9;
+}
+
+.button:hover {
+    color: #14396A;
+    background: #E0E0E0;
+}
 a:link {
     color: darkgreen;
 }
