@@ -1,0 +1,51 @@
+body {
+    margin-top: 30px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    background-color: bisque;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    font-size: 17px;
+}
+
+#banner {
+    text-align: center;
+    font-size: 17px;
+    display: flex;
+    background-color: antiquewhite;
+    justify-content: space-evenly;
+    max-width: 1024px;
+    margin: auto;
+
+}
+#title {
+    white-space: normal;
+    font-size: 30px;
+}
+#quote {
+    padding: 30px 80px 40px;
+    position: relative;
+    font-family: "Utopia-italic";
+    font-size: 25px;
+    font-weight: 700px;
+    text-align: center;
+    color: darkslategrey;
+}
+
+a:link {
+    color: darkgreen;
+}
+
+a:hover {
+    color: palevioletred;
+}
+
+a:active {
+    color: blue;
+}
